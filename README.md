@@ -1,5 +1,5 @@
 # BBCOceanCurrent
-This code was developed during my time as a NASA Intern during the Summer 2023 semester.
+This code was developed during my time as a NASA Intern during the Summer 2023 semester. It provides python scripts that plots ocean current speed and direction based on remote and in-situ sensing datasets. We focus on Biscayne Bay near the Florida International Biscayne Bay campus.
 
 ## Prerequisites
 
