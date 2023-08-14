@@ -1,0 +1,50 @@
+<PAMDataset>
+  <Subdataset name="u">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">1.7100058547754</MDI>
+          <MDI key="STATISTICS_MEAN">0.00030114329187384</MDI>
+          <MDI key="STATISTICS_MINIMUM">-1.2747105055115</MDI>
+          <MDI key="STATISTICS_STDDEV">0.17310206984447</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="um">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">1.7100058547754</MDI>
+          <MDI key="STATISTICS_MEAN">0.00030114329187384</MDI>
+          <MDI key="STATISTICS_MINIMUM">-1.2747105055115</MDI>
+          <MDI key="STATISTICS_STDDEV">0.17310206984447</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="v">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">2.2849969777238</MDI>
+          <MDI key="STATISTICS_MEAN">0.004391139566894</MDI>
+          <MDI key="STATISTICS_MINIMUM">-2.0793235505155</MDI>
+          <MDI key="STATISTICS_STDDEV">0.14781899810892</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="vm">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">2.2849969777238</MDI>
+          <MDI key="STATISTICS_MEAN">0.004391139566894</MDI>
+          <MDI key="STATISTICS_MINIMUM">-2.0793235505155</MDI>
+          <MDI key="STATISTICS_STDDEV">0.14781899810892</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
